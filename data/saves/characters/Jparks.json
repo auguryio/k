@@ -1,0 +1,373 @@
+{
+  "username": "Jparks",
+  "password": "123",
+  "staff-rights": "DEVELOPER",
+  "position": {
+    "x": 2539,
+    "y": 4713,
+    "z": 0
+  },
+  "spell-book": "ANCIENT",
+  "fight-type": "STAFF_POUND",
+  "auto-retaliate": true,
+  "xp-locked": false,
+  "clanchat": "",
+  "target-teleport": false,
+  "preserve": false,
+  "rigour": false,
+  "augury": false,
+  "has-veng": false,
+  "last-veng": 0,
+  "running": true,
+  "run-energy": 100,
+  "spec-percentage": 100,
+  "recoil-damage": 0,
+  "poison-damage": 0,
+  "poison-immunity": 0,
+  "fire-immunity": 0,
+  "teleblock-timer": 0,
+  "prayerblock-timer": 0,
+  "target-search-timer": 0,
+  "special-attack-restore-timer": 0,
+  "skull-timer": -2317,
+  "skull-type": "WHITE_SKULL",
+  "total-kills": 0,
+  "target-kills": 0,
+  "normal-kills": 0,
+  "killstreak": 0,
+  "highest-killstreak": 0,
+  "recent-kills": [],
+  "deaths": 0,
+  "points": 0,
+  "amount-donated": 0,
+  "blowpipe-scales": 0,
+  "pouches": [
+    {
+      "pouch": "SMALL_POUCH",
+      "runeEssenceAmt": 0,
+      "pureEssenceAmt": 0
+    },
+    {
+      "pouch": "MEDIUM_POUCH",
+      "runeEssenceAmt": 0,
+      "pureEssenceAmt": 0
+    },
+    {
+      "pouch": "LARGE_POUCH",
+      "runeEssenceAmt": 0,
+      "pureEssenceAmt": 0
+    },
+    {
+      "pouch": "GIANT_POUCH",
+      "runeEssenceAmt": 0,
+      "pureEssenceAmt": 0
+    }
+  ],
+  "inventory": [
+    {
+      "id": 13652,
+      "amount": 1
+    },
+    {
+      "id": 11785,
+      "amount": 1
+    },
+    {
+      "id": 13307,
+      "amount": 1613108952
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": 565,
+      "amount": 968
+    },
+    {
+      "id": 555,
+      "amount": 904
+    },
+    {
+      "id": 560,
+      "amount": 936
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    }
+  ],
+  "equipment": [
+    {
+      "id": 10342,
+      "amount": 1
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": 10344,
+      "amount": 1
+    },
+    {
+      "id": 6914,
+      "amount": 1
+    },
+    {
+      "id": 10338,
+      "amount": 1
+    },
+    {
+      "id": 12817,
+      "amount": 1
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": 10340,
+      "amount": 1
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": -1,
+      "amount": 0
+    }
+  ],
+  "appearance": [
+    0,
+    3,
+    18,
+    26,
+    34,
+    38,
+    42,
+    14,
+    2,
+    14,
+    5,
+    4,
+    0
+  ],
+  "skills": {
+    "level": [
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99
+    ],
+    "maxLevel": [
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99,
+      99
+    ],
+    "experience": [
+      13034431,
+      13034431,
+      13034689,
+      13035804,
+      13034431,
+      13034431,
+      13036927,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431,
+      13034431
+    ]
+  },
+  "quick-prayers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "friends": [],
+  "ignores": [],
+  "bank-0": [],
+  "bank-1": [],
+  "bank-2": [],
+  "bank-3": [],
+  "bank-4": [],
+  "bank-5": [],
+  "bank-6": [],
+  "bank-7": [],
+  "bank-8": [],
+  "bank-9": []
+}
